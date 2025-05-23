@@ -24,7 +24,7 @@ const experiences = [
 export default function Experience() {
     return (
       <section id="experience" className="bg-transparent text-white lg:py-24 py-10">
-        <h2 className="lg:text-3xl text-xl font-bold mb-10 text-white">Experience</h2>
+        <h2 className="lg:text-2xl text-xl font-bold mb-10 text-white">Experience</h2>
         <div>
           {experiences.map((project, index) => (
             <div key={index} className="border rounded-lg p-6 shadow-md hover:shadow-lg transition bg-white mb-3">

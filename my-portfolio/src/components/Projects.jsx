@@ -68,7 +68,7 @@ const projects = [
   export default function Projects() {
     return (
       <section id="projects" className="text-gray-900 py-12">
-        <h2 className="lg:text-3xl text-xl font-bold mb-10 text-white">Projects</h2>
+        <h2 className="lg:text-2xl text-xl font-bold mb-10 text-white">Projects</h2>
         <div>
           {projects.map((project, index) => (
             <div key={index} className="pb-6 hover:shadow-lg gap-6 transition mb-3 lg:flex items-center">

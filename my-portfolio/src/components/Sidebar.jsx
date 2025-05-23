@@ -4,7 +4,7 @@ export default function Sidebar() {
         <aside className="lg:flex flex-col justify-between left-0 top-0 h-full bg-transparent border-gray-700 py-10 px-4">
         <div>
         <div className="flex justify-between items-center mb-6">
-          <a href="#hero" className="text-teal-400 text-3xl lg:text-2xl font-bold">
+          <a href="#hero" className="text-teal-400 text-3xl lg:text-4xl font-bold">
             Valeria Berrocal
           </a>
         </div>
