@@ -5,7 +5,7 @@ const projects = [
         tech: ["Vue", "Algolia", "ColdFusion", "MVC"],
         link: "https://www.optica.org/events/",
         dates: "2024 - February 2025",
-        image: "/images/event-search.png"
+        image: "/Portfolio/images/event-search.png"
     },
     {
         title: "Mini Search",
@@ -13,7 +13,7 @@ const projects = [
         tech: ["Vue", "Algolia", "ColdFusion", "MVC"],
         link: "https://opg.optica.org/content/author",
         dates: "2024 - February 2025",
-        image: "/images/opg-mini-search.png"
+        image: "/Portfolio/images/opg-mini-search.png"
     },
     {
         title: "Transition to strapi cms of content",
@@ -21,7 +21,7 @@ const projects = [
         tech: ["Strapi", "Jquery", "ColdFusion", "MVC", "Crawler"],
         link: "https://opg.optica.org/content/author/portal/item/author-guide",
         dates: "2024 - February 2025",
-        image: "/images/opg-strapi.png"
+        image: "/Portfolio/images/opg-strapi.png"
     },
     {
         title: "Book Recommendation and Tracker App",
@@ -29,7 +29,7 @@ const projects = [
         tech: ["React", "Firebase", "Polymorphism", "Java"],
         link: "https://brat-70268.web.app/",
         dates: "January 2025",
-        image: "/images/brat.png"
+        image: "/Portfolio/images/brat.png"
     },
     {
         title: "Search Page",
@@ -37,7 +37,7 @@ const projects = [
         tech: ["Algolia", "Vue", "Vite", "Javascript"],
         link: "https://www.optica.org/search",
         dates: "April -  June 2024",
-        image: "/images/search-optica.png"
+        image: "/Portfolio/images/search-optica.png"
     },
     {
       title: "Resources Hub Redesign",
@@ -45,7 +45,7 @@ const projects = [
       tech: ["Javascript", "Grid System", "HTML", "SCSS", "A/B Testing", "Data Management"],
       link: "https://www.onlineu.com/resources",
       dates: "July - September 2022",
-      image: "/images/fad.png"
+      image: "/Portfolio/images/fad.png"
     },
     {
       title: "Cookies on Hub Page",
@@ -53,7 +53,7 @@ const projects = [
       tech: ["Cookies", "Cache", "Javascript", "AEM", "Component building"],
       link: "https://www.rimac.com/vida",
       dates: "October - December 2020",
-      image: "/images/cookies.png"
+      image: "/Portfolio/images/cookies.png"
     },
     {
         title: "Health Insurance Plan Slider",
@@ -61,7 +61,7 @@ const projects = [
         tech: ["Javascript", "AEM", "SCSS", "OwlCaroussel"],
         link: "https://www.rimac.com/salud/seguro-salud?rfid=publica:producto-salud-completo:menu-principal:link",
         dates: "November - December 2019",
-        image: "/images/health-insurance-plans.png"
+        image: "/Portfolio/images/health-insurance-plans.png"
     }
   ];
   
