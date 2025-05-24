@@ -1,21 +1,21 @@
 const experiences = [
   {
       title: "Front end Applications Developer - Optica",
-      description: "Partnered with marketing, design, and back-end teams to implement new features and content and fixes using HTML, Javascript, Vue, and CSS within the organization’s digital properties.",
+      description: "I collaborate closely with marketing, design, and back-end teams to implement new features, content updates, and bug fixes using HTML, JavaScript, Vue, and CSS across the organization’s digital platforms. A strong advocate for accessibility, I conduct quarterly reviews of key content to ensure our systems are inclusive and user-friendly. My role centers on optimizing the front-end experience for both internal and external users while bringing expertise in UI/UX and interaction design to every project.",
       tech: ["Strapi", "Javascript", "Vue", "Scss", "Kentico", "ColdFusion"],
       link: "https://www.optica.org/",
       dates: "Jan 2023 - Present"
   },
   {
       title: "HTML/CSS Developer - Optimal",
-      description: "Translated mock-up designs into front-end code. Worked alongside content writers and a UI designer. Built web pages in an in-house CMS editor. Created and maintained a component system for article posts.",
+      description: "I was responsible for translating designer mockups and wireframes into responsive, maintainable HTML and CSS. I supported ongoing content needs through a custom in-house CMS and worked with the content and design teams to deliver insightful blog posts and thought-leadership articles. I also contributed to building a reusable component system aimed at automating article publication, while regularly peer-reviewing code to uphold development standards.",
       tech: ["HTML", "Javascript", "CSS", "Jquery"],
       link: "https://www.onlineu.com/",
       dates: "July 2021 - Oct 2022"
   },
   {
     title: "Webmaster - Rimac Seguros y Reaseguros",
-    description: "Translated mock-up designs into front-end code. Worked alongside content writers and a UI designer. Built web pages in an in-house CMS editor. Created and maintained a component system for article posts.",
+    description: "I managed updates and maintenance for the public-facing website using Adobe Experience Manager (AEM). My responsibilities included developing new components for product pages and working closely with the UX/UI team as part of the design workflow. I demonstrated agility by publishing urgent sales content within a 6-hour window and operated under SCRUM and AGILE methodologies with two-week sprint cycles.",
     tech: ["AEM", "Javascript", "CSS", "Jquery"],
     link: "https://www.rimac.com/",
     dates: "Nov 2019 - Jun 2021"
