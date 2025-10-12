@@ -4,13 +4,13 @@ export default function About() {
         <h2 className="lg:text-2xl text-xl font-bold mb-6">About Me</h2>
         <div className="max-w-3xl text-lg">
         <p className="mb-4">
-            Hello! I'm <span className="font-semibold text-teal-400">Valeria</span>, a front-end developer with over five years of experience in building accessible, responsive web interfaces using <span className="font-semibold">HTML5, CSS3, SCSS, Javascript, React</span>, and <span className="font-semibold">Vue</span>. I specialize in translating design concepts into fully functional, clean, and user-friendly applications.
+            Hello! I'm <span className="font-semibold text-teal-400">Valeria</span>, a developer and aspiring <span className="font-semibold">data scientist</span> with a strong foundation in software engineering and front-end development. Over the past five years, I've built responsive, accessible web interfaces using <span className="font-semibold">HTML5, CSS3, JavaScript, React, and Vue</span>, collaborating closely with cross-functional teams to deliver user-centered digital experiences.
         </p>
         <p className="mb-4">
-            I'm deeply passionate about environments that foster <span className="font-semibold">female empowerment</span> and <span className="font-semibold">technological innovation</span>. I enjoy continuous learning and am currently focused on expanding my skills in <span className="italic">UI</span>, <span className="italic">performance optimization</span>, and <span className="italic">design systems</span>.
+            I'm currently pursuing my <span className="font-semibold">M.S. in Political Analytics at Columbia University</span>, where I'm expanding my expertise in <span className="font-semibold">data science, statistical modeling, and causal inference</span>. My goal is to leverage <span className="font-semibold">R, Python, and SQL</span> to uncover insights from data and inform product and policy decisions.
         </p>
         <p>
-            I hold a bachelor's degree in <span className="font-semibold">Software Engineering</span> from <span className="font-semibold">Western Governors University</span> and will be pursuing my master's in <span className="font-semibold">Political Analytics</span> at <span className="font-semibold">Columbia University</span> this fall.
+            I'm passionate about using data to understand human behavior and create meaningful, evidence-based solutions—especially in areas that promote <span className="font-semibold">education, empowerment, and innovation</span>.
         </p>
         </div>
       </section>
