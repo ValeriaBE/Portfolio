@@ -42,8 +42,8 @@ export default function Experience() {
           ))}
         </div>
         <a
-          href="/Portfolio/Valeria-Berrocal-Resume.pdf"
-          download="Valeria-Berrocal-Resume.pdf"
+          href="/Portfolio/Resume.pdf"
+          download="Resume.pdf"
           target="_blank"
           rel="noreferrer noopener"
           aria-label="View Full Resume (opens in a new tab)"
