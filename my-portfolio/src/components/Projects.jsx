@@ -1,5 +1,14 @@
 const projects = [
     {
+      title: "Queens - Manhattan: NYC Subway Reliability",
+      description:
+        "Designed and built an editorial, scrollytelling data visualization exploring the reliability of NYC subway lines connecting Queens to Manhattan. Using 10 years of MTA on-time performance data, the project combines narrative storytelling with interactive React + D3 visualizations to compare long-term reliability, volatility, and recent performance across the R, 7, M, F, and E lines.",
+      tech: ["React", "TypeScript", "D3.js", "Vite", "R", "Data Visualization"],
+      link: "https://valeriabe.github.io/nyc-subway-delays/",
+      dates: "January 2026",
+      image: "/Portfolio/images/subways.png"
+    },  
+    {
       title: "Event Search Page",
       description:
         "Developed a dynamic search experience for event listings using Vue and Algolia, integrated within a ColdFusion MVC framework to ensure high performance and intuitive UX.",
