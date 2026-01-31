@@ -10,7 +10,7 @@ export default function About() {
             I'm currently pursuing my <span className="font-semibold">M.S. in Political Analytics at Columbia University</span>, where I'm expanding my expertise in <span className="font-semibold">data science, statistical modeling, and causal inference</span>. My goal is to leverage <span className="font-semibold">R, Python, and SQL</span> to uncover insights from data and inform product and policy decisions.
         </p>
         <p>
-            I'm passionate about using data to understand human behavior and create meaningful, evidence-based solutions—especially in areas that promote <span className="font-semibold">education, empowerment, and innovation</span>.
+            I'm passionate about using data to understand human behavior and create meaningful, evidence-based solutions especially in areas that promote <span className="font-semibold">education, empowerment, and innovation</span>.
         </p>
         </div>
       </section>

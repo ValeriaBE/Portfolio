@@ -1,5 +1,22 @@
 const projects = [
     {
+      title: "Netflix Title Journey: U.S. vs Canada Content Strategy",
+      description:
+        "Designed and built an interactive, animated data visualization exploring how Netflix’s content production strategy differs between the United States and Canada. The project uses a narrative, chapter-based experience where individual titles are represented as animated dots that dynamically reorganize by country, rating, genre, and format, emphasizing pattern discovery over static charts. The visualization prioritizes data integrity by adapting the design to the dataset’s limitations and focuses on strategy-level insights rather than individual titles.",
+      tech: [
+        "React",
+        "TypeScript",
+        "D3.js",
+        "Vite",
+        "Zustand",
+        "Data Visualization",
+        "Scrollytelling"
+      ],
+      link: "https://valeriabe.github.io/netflix-data/",
+      dates: "January 2026",
+      image: "/Portfolio/images/netflix-data.png"
+    },  
+    {
       title: "Queens - Manhattan: NYC Subway Reliability",
       description:
         "Designed and built an editorial, scrollytelling data visualization exploring the reliability of NYC subway lines connecting Queens to Manhattan. Using 10 years of MTA on-time performance data, the project combines narrative storytelling with interactive React + D3 visualizations to compare long-term reliability, volatility, and recent performance across the R, 7, M, F, and E lines.",
