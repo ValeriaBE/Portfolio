@@ -1,5 +1,22 @@
 const projects = [
     {
+      title: "Survey Results · Peruvians in the U.S",
+      description:
+        "This project explores how Peruvians in the United States experienced the 2026 Peruvian election, focusing on access to information, trust in sources, and barriers to voting.",
+      tech: [
+        "React",
+        "TypeScript",
+        "D3.js",
+        "Vite",
+        "R",
+        "Data Visualization",
+        "Scrollytelling"
+      ],
+      link: "https://valeriabe.github.io/peruvian-survey-results/",
+      dates: "April 2026",
+      image: "/Portfolio/images/peruvian-survey.png"
+    },  
+    {
       title: "Netflix Title Journey: U.S. vs Canada Content Strategy",
       description:
         "Designed and built an interactive, animated data visualization exploring how Netflix’s content production strategy differs between the United States and Canada. The project uses a narrative, chapter-based experience where individual titles are represented as animated dots that dynamically reorganize by country, rating, genre, and format, emphasizing pattern discovery over static charts. The visualization prioritizes data integrity by adapting the design to the dataset’s limitations and focuses on strategy-level insights rather than individual titles.",
